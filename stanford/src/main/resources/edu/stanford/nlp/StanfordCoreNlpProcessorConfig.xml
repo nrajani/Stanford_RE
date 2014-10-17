@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>This is easy!</comment>
+<entry key="annotators">tokenize, ssplit, pos, lemma, ner, parse, dcoref</entry>
+<!-- <entry key="tokenize.options">normalizeParentheses=false,normalizeOtherBrackets=false,unicodeQuotes=true,unicodeEllipsis=true</entry> -->
+<entry key="dcoref.sievePasses">MarkRole, DiscourseMatch, ExactStringMatch, RelaxedExactStringMatch, PreciseConstructs, StrictHeadMatch1, StrictHeadMatch2, StrictHeadMatch3, StrictHeadMatch4, RelaxedHeadMatch, PronounMatch</entry>
+<entry key="dcoref.score">false</entry>
+<entry key="dcoref.postprocessing">true</entry>
+<entry key="dcoref.maxdist">-1</entry>
+<entry key="dcoref.use.big.gender.number">true</entry>
+<entry key="dcoref.big.gender.number">edu/stanford/nlp/models/dcoref/gender.data.gz</entry>
+<entry key="dcoref.replicate.conll">true</entry>
+<entry key="dcoref.conll.scorer">/scr/nlp/data/conll-2011/scorer/v4/scorer.pl</entry>
+<entry key="dcoref.logFile">/scr/nlp/coref/error_log/temp/result_conlldev.txt</entry>
+<entry key="dcoref.conll2011">/scr/nlp/data/conll-2011/v2/data/dev/data/english/annotations</entry>
+<entry key="stanfordOutputXmlFile">stanfordCoreNlpProcessorTestOutput.xml</entry>
+<entry key="dependencyRepresentationType">Basic</entry>
+<entry key="representativeMentionSpan"><!--head/whole-->head</entry>
+<entry key="outputSingletonMentions">true</entry>
+</properties>

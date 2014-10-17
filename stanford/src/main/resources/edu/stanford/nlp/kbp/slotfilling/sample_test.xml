@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kbpslotfill>
+  <query id="SF13_ENG_001">
+    <name>Ramazan Bashardost</name>
+    <docid>XIN_ENG_20090916.0146</docid>
+    <beg>660</beg>
+    <end>677</end>
+    <enttype>PER</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+  <query id="SF13_ENG_002">
+    <name>Marc Bolland</name>
+    <docid>AFP_ENG_20100525.0517</docid>
+    <beg>2669</beg>
+    <end>2680</end>
+    <enttype>PER</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+  <query id="SF13_ENG_003">
+    <name>Stuart Rose</name>
+    <docid>AFP_ENG_20100525.0561</docid>
+    <beg>730</beg>
+    <end>740</end>
+    <enttype>PER</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+  <query id="SF13_ENG_004">
+    <name>Douglas Flint</name>
+    <docid>APW_ENG_20100927.0149</docid>
+    <beg>659</beg>
+    <end>671</end>
+    <enttype>PER</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+  <query id="SF13_ENG_005">
+    <name>Tahawwur Hussain Rana</name>
+    <docid>XIN_ENG_20091112.0053</docid>
+    <beg>625</beg>
+    <end>645</end>
+    <enttype>PER</enttype>
+    <nodeid>NIL</nodeid>
+  </query>
+</kbpslotfill>

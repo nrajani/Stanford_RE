@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>This is easy!</comment>
+<entry key="stanfordCoreNlpProcessorConfig">edu/stanford/nlp/StanfordCoreNlpProcessorConfig.xml</entry>
+<entry key="inputSgmlDataFile">edu/stanford/nlp/LTW_ENG_20080727.0030.xml</entry>
+<entry key="adeptXmlOutputFile">stanfordCoreNlpAdeptOutput.xml</entry>
+<entry key="adeptJsonOutputFile">stanfordCoreNlpAdeptOutput.json</entry>
+<entry key="adeptBinOutputFile">stanfordCoreNlpAdeptOutput.bin</entry>
+<entry key="inputDirectory">\\mercury-04\u40\ldc_releases\TACSourceCorpora\TAC_2010_KBP_Source_Data\data\2010\wb</entry>
+</properties>
